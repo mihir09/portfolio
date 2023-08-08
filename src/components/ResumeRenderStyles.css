@@ -1,0 +1,16 @@
+.resume-viewer,
+.resume-download-btn {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.resume-download-btn {
+  padding: 4rem 0;
+}
+
+@media screen and (max-width: 769px) {
+  .resume-viewer {
+    display: None;
+  }
+}
