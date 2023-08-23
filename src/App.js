@@ -8,6 +8,7 @@ import React, { useEffect } from "react";
 import { Route, Routes } from "react-router-dom";
 import aos from "aos";
 import "aos/dist/aos.css";
+import Github from "./routes/Github";
 
 export default function App() {
   useEffect(() => {
@@ -23,6 +24,7 @@ export default function App() {
         <Route path="/about" element={<About />} />
         <Route path="/contact" element={<Contact />} />
         <Route path="/resume" element={<Resume />} />
+        <Route path="/github" element={<Github />} />
       </Routes>
     </>
   );
