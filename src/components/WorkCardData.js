@@ -32,7 +32,7 @@ const WorkCardData = [
       { name: "Framework", list: "SpringBoot" },
       {
         name: "Tools",
-        list: "BeautifulSoup, ML libraries, Hadoop MapReduce"
+        list: "BeautifulSoup, ML libraries, Hadoop, MapReduce"
       }
     ],
     githubLink: "https://github.com/mihir09/Burnol"

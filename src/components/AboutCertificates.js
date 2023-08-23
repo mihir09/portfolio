@@ -19,7 +19,7 @@ function AboutCertificates(props) {
           <div className="info">
             <h3>{props.title}</h3>
 
-            <p>{props.description}</p>
+            <p className="info-description">{props.description}</p>
           </div>
         </div>
       </a>

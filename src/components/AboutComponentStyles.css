@@ -95,7 +95,13 @@
     grid-template-columns: 1fr;
     border: 0;
   }
-
+  .info-description {
+    display: none;
+  }
+  .section-certificates {
+    margin: 0;
+    padding: 0;
+  }
   .info-img {
     display: none;
   }
