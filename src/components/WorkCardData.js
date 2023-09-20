@@ -14,6 +14,11 @@ const WorkCardData = [
     techStacks: [
       { name: "Language", list: "Angular" },
       { name: "Database", list: "Firebase" },
+      // { name: "Framework", list: "" },
+      {
+        name: "Tools",
+        list: "User Authentication, Reusable Components, Auth Gaurds"
+      }
     ],
     githubLink: "https://github.com/mihir09/ShopMart"
   },
