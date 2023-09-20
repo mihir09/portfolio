@@ -19,7 +19,7 @@ const ResumeRender = () => {
         </Document>
       </div>
       <a
-        href="https://drive.google.com/file/d/1Nd4y2u0KqeRrmaLIwgV3F9AwRpi58WWE/view?usp=sharing"
+        href="https://drive.google.com/file/d/1-3l2SD_Mxtkx42rtcUCyGiEvOCjlHIJ-/view?usp=sharing"
         target="_blank"
         rel="noreferrer"
         className="resume-download-btn"

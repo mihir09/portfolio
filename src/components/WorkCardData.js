@@ -3,8 +3,20 @@ import projImg2 from "../assets/project-image-2.png";
 import projImg3 from "../assets/project-image-3.png";
 import projImg4 from "../assets/project-image-4.png";
 import projImg5 from "../assets/project-image-5.png";
+import projImg6 from "../assets/project-image-6.png";
 
 const WorkCardData = [
+  {
+    imgsrc: projImg6,
+    title: "ShopMart",
+    description:
+      "Developed a dynamic e-commerce platform using Angular and Firebase, delivering a seamless shopping experience. Implemented features like a robust shopping cart, secure user authentication, and an intuitive admin portal for product management. Leveraged Firebase's real-time database and cloud services to ensure scalability and real-time updates, resulting in a high-performance online shopping solution.",
+    techStacks: [
+      { name: "Language", list: "Angular" },
+      { name: "Database", list: "Firebase" },
+    ],
+    githubLink: "https://github.com/mihir09/ShopMart"
+  },
   {
     imgsrc: projImg1,
     title: "Parking Space Management",
