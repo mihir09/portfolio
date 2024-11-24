@@ -6,9 +6,9 @@ function AboutCertificates(props) {
     <div
       className="section-certificates"
       style={{ backgroundImage: `url(${props.bgimgsrc})` }}
-      data-aos="fade-up"
+      data-aos="fade-in"
       data-aos-easing="linear"
-      data-aos-duration="300"
+      data-aos-duration="100"
     >
       <a href={props.link} target="_blank" rel="noreferrer">
         <div className="certificates">
